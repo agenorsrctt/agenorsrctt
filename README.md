@@ -12,3 +12,7 @@
 - JavaScript
 - Node.js
 - Java
+- Spring Boot
+- MySql
+- Git
+- GitHub
