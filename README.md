@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Agenor</h1>
 
 <p align="center">
-  <img src=https://github.com/agenorsrctt/images.git" width="200px" style="border-radius: 50%">
+  <img src="https://github.com/agenorsrctt/images.git" width="200px" style="border-radius: 50%">
 </p>
 
 <p align="center">
