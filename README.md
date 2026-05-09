@@ -1,6 +1,10 @@
 <h1 align="center">Olá 👋, eu sou Agenor</h1>
 
 <p align="center">
+  <img src=https://github.com/agenorsrctt/images.git" width="200px" style="border-radius: 50%">
+</p>
+
+<p align="center">
 💻 Desenvolvedor Web em aprendizado <br>
 📚 Estudando Front-end, Back-end e Java <br>
 🚀 Criando projetos para evoluir na programação
