@@ -68,3 +68,5 @@
 📫 Email: agenorsrctt@gmail.com
 
 💼 LinkedIn: [linkedin.com/in/seulink](https://www.linkedin.com/in/agenor-s-rodrigues-b12473368/)
+
+💼 GitHub: https://github.com/agenorsrctt
