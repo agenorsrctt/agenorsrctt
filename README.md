@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Agenor</h1>
 
 <p align="center">
-  <img src="https://github.com/agenorsrctt/images.git" width="200px" style="border-radius: 50%">
+  <img src="[https://github.com/agenorsrctt/images.git](https://github.com/agenorsrctt/images/blob/main/ChatGPT%20Image%208%20de%20mai.%20de%202026,%2021_15_01.png?raw=true)" width="200px" style="border-radius: 50%">
 </p>
 
 <p align="center">
